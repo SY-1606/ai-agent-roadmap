@@ -30,3 +30,8 @@ Thumbs.db
 
 # Stage 05 本地任务数据
 /python/basics/stage05/task_manager_v4/data/
+
+# SQLite 本地数据
+/python/basics/stage09/**/*.db
+/python/basics/stage09/**/*.db-shm
+/python/basics/stage09/**/*.db-wal
