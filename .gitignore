@@ -35,3 +35,6 @@ Thumbs.db
 /python/basics/stage09/**/*.db
 /python/basics/stage09/**/*.db-shm
 /python/basics/stage09/**/*.db-wal
+
+.coverage
+htmlcov/
